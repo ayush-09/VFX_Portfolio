@@ -1,2 +1,2 @@
 # VFX_Portfolio
-akashv.netlify.app
+[Live](https://akashv.netlify.app/)
